@@ -1,0 +1,26 @@
+[
+    {
+        "id":"1",
+        "image":"./p1.webp",
+        "name":"S23",
+        "storage":"128GB"
+    },
+    {
+        "id":"2",
+        "image":"./p2.webp",
+        "name":"Nothing",
+        "storage":"64GB"
+    },
+    {
+        "id":"3",
+        "image":"./p3.webp",
+        "name":"Iphone 13",
+        "storage":"128GB"
+    },
+    {
+        "id":"4",
+        "image":"./p4.webp",
+        "name":"S24",
+        "storage":"62GB"
+    }
+]

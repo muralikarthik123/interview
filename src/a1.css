@@ -1,0 +1,20 @@
+@media(max-width:500px){
+    .navbar{
+        .nav{
+            display: block;
+        }
+        .lap{
+            display: none;
+        }
+    }
+}
+@media(min-width:500px){
+    .navbar{
+        .nav{
+            display: none;
+        }
+        .lap{
+            display: block;
+        }
+    }
+}
